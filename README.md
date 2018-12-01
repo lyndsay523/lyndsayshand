@@ -1,2 +1,2 @@
 # lyndsayshand
-personal website
+personal website of lyndsay shand
