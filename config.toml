@@ -91,6 +91,12 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     
+    #[[params.tiles.showcase]]
+    #  title = "About Me"
+    #  subtitle = ""
+    #  image = "trail.jpg"
+    #  url = "aboutme"
+      
     [[params.tiles.showcase]]
       title = "Research"
       subtitle = "Developing custom methods"
