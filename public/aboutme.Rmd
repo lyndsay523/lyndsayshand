@@ -1,6 +1,7 @@
 ---
 title: "About Me"
-output: html_document
+output: 
+  blogdown: html_document
 ---
 
 ![](/img/shand-lyndsay.jpg)
