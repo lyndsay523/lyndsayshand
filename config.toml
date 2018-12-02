@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://lyndsayshand.com/"
+baseURL = "https://lyndsayshand.com."
 languageCode = "en-us"
 title = "LS"
 theme = "forty"
