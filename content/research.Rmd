@@ -1,0 +1,46 @@
+---
+title: "Research"
+output: 
+  blogdown: html_document
+---
+
+## **CURRENT RESEARCH INTERESTS**
+
+* Spatial and Spatio-Temporal Analysis 
+* Nonstationary Spatial Modeling of Material Microstructures
+* Bayesian Spatio-Temporal Point Process Models
+* Bayesian Hierarchical Models
+* Bayesian Uncertainty Estimation of Functional Data
+* Time Series Analysis
+
+## **PAST RESEARCH**
+
+### *Spatially-varying autoregressive prediction models for HIV*
+
+A major challenge with modeling HIV data lies in the rarity of the disease, leading to few to no incidents across much of the domain. This also makes it necessary to borrow strength from neighboring regions in both space and time in order to more accurately estimate the underlying disease risk. Motivated by making prediction for HIV new diagnosis rate based on a HIV dataset that is abundant in space but has short length in time, we have built a class of spatially varying autoregressive models (SVAR), in a Bayesian hierarchical setting and employ copula methods to describe complex spatial dependencies. These models are applied to three regional datasets of the United States. 
+
+<br>
+
+### *Modeling Nonstationary Space-Time Data with Dimension Expansion*
+
+The Dimension Expansion technique to model nonstationary saptio-temporal processes allows us to take advantage of the abundance of stationary models available while simultaneously retainin the nonstationary properties in the data. Both simulations and real data application to noisy streamflow and wind datasets show that modeling nonstationarity in both space and time, can improve the predictive performance over stationary covariance models or the models that are nonstationary in space but stationary in time.
+
+![](/img/dimexp.png)
+
+<br>
+
+### *A Forecasting model for West Nile Virus infection of Mosquitos*
+
+In collaboration with Dr. Marilyn O’Hara Ruiz in the pathobiology department of college of veterinary medicine, we developed a real-time prediction model of mosquito infection rate for DuPage County, Illinois. It is unique in that it was developed using only time-lagged weather variables as predictors and is currently being used each summer to help make effective decisions about mosquito control. It is also making an impact in vector research as others are looking to apply the same model structure in other varying locales.
+
+ <br>
+ 
+## **PUBLICATIONS**
+
+<!--Tucker, J. D., Shand, L., Lewis, J. (2019)-->
+
+Lyndsay Shand and Bo Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. *Journal of the Royal Statistical Society: Series C*.
+
+Lyndsay Shand and Bo Li (2017). Modeling Nonstationarity in Space and Time. *Biometrics*.
+
+L. Shand; W. M. Brown; L. F. Chaves; T. L. Goldberg; G. L. Hamer; L. Haramis; U. Kitron; E. D. Walker; M.O. Ruiz (2016). Predicting West Nile Virus Infection Risk From the Synergistic Effects of Rainfall and Temperature. *Journal of Medical Entomology*. 1-10. doi: 10.1093/jme/tjw042.
