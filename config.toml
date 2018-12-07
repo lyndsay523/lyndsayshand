@@ -88,7 +88,7 @@ disqusShortname = ""
     # the 'static/img' folder.
     title = "Lyndsay Shand"
     subtitle = "Statistical Research and Consulting. Clear and custom analytical solutions."
-    buttonText = "Get to know me"
+    #buttonText = ""
 
 
   # Tiles Section
