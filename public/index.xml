@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>/aboutme/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>/aboutme/</guid>
-      <description>I received my B.S. in Mathematics and Spanish at Bucknell University in Lewisburg, Pennsylvania after growing up skiing and swimming in Park City, Utah. Afterwards, I earned my Ph.D. in Statistics from the University of Illinois Urbana-Champaign where research focus was in spatial-temporal statistics. I built prediction models for the spatial spread of diseases such as West Nile Virus and HIV as well as built geospatial models to explain complex environmental phenomenon such as stream flow networks.</description>
-    </item>
-    
-    <item>
       <title>Ipsum</title>
       <link>/blogs/ipsum/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
@@ -54,15 +45,6 @@
       
       <guid>/consulting/</guid>
       <description>SERVICESIdentifying significant data trendsDynamic data visualizationData collection strategiesPredictionUncertainty estimationOptimizationSurvey designExperimental designand more. Just ask!</description>
-    </item>
-    
-    <item>
-      <title>Consulting</title>
-      <link>/consulting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consulting/</guid>
-      <description>Consulting Offerings&amp;hellip;</description>
     </item>
     
     <item>
