@@ -14,7 +14,7 @@ output:
 
 ## **PUBLICATIONS**
 
-Tucker, J. D., Shand, L., Lewis, J. (2019). Handling Missing Data in self-exciting point process models. *Spatial Statistics*. 29.160-176
+Tucker, J. D., L. Shand, J. Lewis (2019). Handling Missing Data in self-exciting point process models. *Spatial Statistics*. 29.160-176
 
 Lyndsay Shand and Bo Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. *Journal of the Royal Statistical Society: Series C*.  https://doi.org/10.1111/rssc.12269
 
