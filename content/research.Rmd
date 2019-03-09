@@ -6,12 +6,23 @@ output:
 
 ## **CURRENT RESEARCH INTERESTS**
 
-* Spatial and Spatio-Temporal Analysis 
-* Nonstationary Spatial Modeling of Material Microstructures
-* Bayesian Spatio-Temporal Point Process Models
-* Bayesian Hierarchical Models
-* Bayesian Uncertainty Estimation of Functional Data
-* Time Series Analysis
+* Spatial and spatio-temporal analysis 
+* Nonstationary spatial modeling of heterogeneous materials
+* Bayesian spatio-temporal point process models
+* Bayesian hierarchical models
+* Bayesian functional data analysis
+
+## **PUBLICATIONS**
+
+Tucker, J. D., Shand, L., Lewis, J. (2019). Handling Missing Data in self-exciting point process models. *Spatial Statistics*. 29.160-176
+
+Lyndsay Shand and Bo Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. *Journal of the Royal Statistical Society: Series C*.  https://doi.org/10.1111/rssc.12269
+
+Lyndsay Shand and Bo Li (2017). Modeling Nonstationarity in Space and Time. *Biometrics*.  https://doi.org/10.1111/biom.12656
+
+L. Shand; W. M. Brown; L. F. Chaves; T. L. Goldberg; G. L. Hamer; L. Haramis; U. Kitron; E. D. Walker; M.O. Ruiz (2016). Predicting West Nile Virus Infection Risk From the Synergistic Effects of Rainfall and Temperature. *Journal of Medical Entomology*. 1-10. doi: 10.1093/jme/tjw042.
+
+<br>
 
 ## **PAST RESEARCH**
 
@@ -33,14 +44,3 @@ The Dimension Expansion technique to model nonstationary saptio-temporal process
 
 In collaboration with Dr. Marilyn O’Hara Ruiz in the pathobiology department of college of veterinary medicine, we developed a real-time prediction model of mosquito infection rate for DuPage County, Illinois. It is unique in that it was developed using only time-lagged weather variables as predictors and is currently being used each summer to help make effective decisions about mosquito control. It is also making an impact in vector research as others are looking to apply the same model structure in other varying locales.
 
- <br>
- 
-## **PUBLICATIONS**
-
-<!--Tucker, J. D., Shand, L., Lewis, J. (2019)-->
-
-Lyndsay Shand and Bo Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. *Journal of the Royal Statistical Society: Series C*.
-
-Lyndsay Shand and Bo Li (2017). Modeling Nonstationarity in Space and Time. *Biometrics*.
-
-L. Shand; W. M. Brown; L. F. Chaves; T. L. Goldberg; G. L. Hamer; L. Haramis; U. Kitron; E. D. Walker; M.O. Ruiz (2016). Predicting West Nile Virus Infection Risk From the Synergistic Effects of Rainfall and Temperature. *Journal of Medical Entomology*. 1-10. doi: 10.1093/jme/tjw042.
