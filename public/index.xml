@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aboutme/</guid>
-      <description>I received my B.S. in Mathematics and Spanish at Bucknell University in Lewisburg, Pennsylvania after growing up skiing and swimming in Park City, Utah. Afterwards, I earned my Ph.D. in Statistics from the University of Illinois Urbana-Champaign where research focus was in spatial-temporal statistics. I built prediction models for the spatial spread of diseases such as West Nile Virus and HIV as well as built geospatial models to explain complex environmental phenomenon such as stream flow networks.</description>
+      <description>I received my B.S. in Mathematics and Spanish at Bucknell University in Lewisburg, Pennsylvania after growing up skiing and swimming in Park City, Utah. Afterwards, I earned my Ph.D. in Statistics from the University of Illinois Urbana-Champaign where research focus was in spatial-temporal statistics. I developed prediction models for the spatial spread of diseases such as West Nile Virus and HIV as well as geospatial models to explain complex environmental phenomenon such as stream flow networks.</description>
     </item>
     
     <item>
@@ -53,7 +53,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>CURRENT RESEARCH INTERESTSSpatial and Spatio-Temporal AnalysisNonstationary Spatial Modeling of Material MicrostructuresBayesian Spatio-Temporal Point Process ModelsBayesian Hierarchical ModelsBayesian Uncertainty Estimation of Functional DataTime Series AnalysisPAST RESEARCHSpatially-varying autoregressive prediction models for HIVA major challenge with modeling HIV data lies in the rarity of the disease, leading to few to no incidents across much of the domain. This also makes it necessary to borrow strength from neighboring regions in both space and time in order to more accurately estimate the underlying disease risk.</description>
+      <description>CURRENT RESEARCH INTERESTSSpatial and spatio-temporal analysisNonstationary spatial modeling of heterogeneous materialsBayesian spatio-temporal point process modelsBayesian hierarchical modelsBayesian functional data analysisPUBLICATIONSTucker, J. D., Shand, L., Lewis, J. (2019). Handling Missing Data in self-exciting point process models. Spatial Statistics. 29.160-176
+Lyndsay Shand and Bo Li (2018). Spatially Varying Autoregressive Models for Prediction of New HIV Diagnoses. Journal of the Royal Statistical Society: Series C.</description>
     </item>
     
   </channel>
