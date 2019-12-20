@@ -87,7 +87,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Lyndsay Shand"
-    subtitle = "Statistical Research and Consulting. Clear and custom analytical solutions."
+    subtitle = "Statistical Research and Consulting. Clear and tailored analytical solutions."
     #buttonText = ""
 
 
@@ -104,7 +104,7 @@ disqusShortname = ""
       
     [[params.tiles.showcase]]
       title = "Research"
-      subtitle = "Developing custom methods"
+      subtitle = "Developing tailored methods"
       image = "trail.jpg"
       url = "research"
 
