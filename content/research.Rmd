@@ -35,6 +35,7 @@ L. Shand; W. M. Brown; L. F. Chaves; T. L. Goldberg; G. L. Hamer; L. Haramis; U.
 
 <br>
 
+<!--
 ## **CURRENT RESEARCH**
 
 ### *Data-driven inferences for aerosol and marine low-cloud interactions using ship-based databases and open-source satellite imagery*
@@ -59,3 +60,4 @@ The Dimension Expansion technique to model nonstationary saptio-temporal process
 R package: [rdimexp](https://github.com/lshand/rdimexp)
 
 ![](/img/dimexp.png)
+-->
