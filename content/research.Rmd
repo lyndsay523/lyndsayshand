@@ -19,9 +19,9 @@ output:
 
 ## **PUBLICATIONS**
 
-Tucker J.D., L. Shand, and K. Chowdhary (2019). Bayesian Function Registration. *In preparation*.
+Tucker J.D., L. Shand, and K. Chowdhary (2020). A Robut Bayesian Approach to Function Registration. *Submitted*.
 
-Harris, T., Tucker J.D., B. Li, and L. Shand (2019). Identifying Shape Outliers in Functional Data with Elastic Depth *In preparation*.
+Harris, T., Tucker J.D., B. Li, and L. Shand (2020). Identifying Shape Outliers in Functional Data with Elastic Depth *In preparation*.
 
 Tucker, J. D., L. Shand, J. R. Lewis (2019). Handling Missing Data in self-exciting point process models. *Spatial Statistics*. 29.160-176. 
 
