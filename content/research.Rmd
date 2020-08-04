@@ -16,6 +16,8 @@ output:
 
 * Atmospheric Sciences
 * Material Sciences
+* Disease Modeling
+* Image Processing
 
 ## **PUBLICATIONS**
 
