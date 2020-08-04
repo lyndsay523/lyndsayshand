@@ -19,7 +19,7 @@ output:
 
 ## **PUBLICATIONS**
 
-Tucker J.D., L. Shand, and K. Chowdhary (2020). A Robut Bayesian Approach to Function Registration. *Submitted*.
+Tucker J.D., L. Shand, and K. Chowdhary (2020). A Robut Bayesian Approach to Function Registration. *Submitte==d*.
 
 Harris, T., Tucker J.D., B. Li, and L. Shand (2020). Identifying Shape Outliers in Functional Data with Elastic Depth *In preparation*.
 
@@ -45,7 +45,7 @@ It is well-known through the Twomey effect, or aerosol indirect effect, that aer
 ![](/img/shiptracks.png)
 <br>
 
-## **PAST RESEARCH**
+## **PAST RESEARCH**==++
 
 ### *Spatially-varying autoregressive prediction models for HIV*
 

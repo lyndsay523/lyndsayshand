@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "LS"
-    subtitle = "Research & Consulting"
+    #subtitle = "Research & Consulting"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -87,7 +87,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Lyndsay Shand"
-    subtitle = "Statistical Research and Consulting. Clear and tailored analytical solutions."
+    #subtitle = "Statistical Research and Consulting. Clear and tailored analytical solutions."
     #buttonText = ""
 
 
@@ -104,15 +104,15 @@ disqusShortname = ""
       
     [[params.tiles.showcase]]
       title = "Research"
-      subtitle = "Developing tailored methods"
+      #subtitle = "Developing tailored methods"
       image = "trail.jpg"
       url = "research"
 
-    [[params.tiles.showcase]]
-      title = "Consulting"
-      subtitle = "Providing clear solutions"
-      image = "balloons.jpg"
-      url = "consulting"
+    #[[params.tiles.showcase]]
+    #  title = "Consulting"
+    #  subtitle = "Providing clear solutions"
+    #  image = "balloons.jpg"
+    #  url = "consulting"
 
    
     # You can make more showcases by copy and pasting the code above
@@ -157,7 +157,7 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "lyndsayshand@gmail.com"
+    email = "lshand@sandia.gov"
 
     #[[params.contact.phone]]
     #title = "Phone"
