@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LS</title>
+    <link>/</link>
+    <description>Recent content on LS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:26:09 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magna</title>
+      <link>/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>/blogs/ipsum/</guid>
+      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>I received my B.S. in Mathematics and Spanish at Bucknell University in Lewisburg, Pennsylvania after growing up skiing and swimming in Park City, Utah. Afterwards, I earned my Ph.D. in Statistics from the University of Illinois Urbana-Champaign where research focus was in spatial-temporal statistics. I developed prediction models for the spatial spread of diseases such as West Nile Virus and HIV as well as geospatial models to explain complex environmental phenomenon such as stream flow networks.</description>
+    </item>
+    
+    <item>
+      <title>Consulting</title>
+      <link>/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/consulting/</guid>
+      <description>
+SERVICES
+
+Identifying significant data trends
+Dynamic data visualization
+Data collection strategies
+Prediction
+Uncertainty estimation
+Optimization
+Survey design
+Experimental design
+and more. Just ask!
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>CURRENT RESEARCH INTERESTS
+
+Spatial and spatio-temporal analysis
+Nonstationary spatial modeling of heterogeneous materials
+Bayesian spatio-temporal point process models
+Bayesian hierarchical models
+Bayesian functional data analysis
+
+
+    </item>
+    
+  </channel>
+</rss>

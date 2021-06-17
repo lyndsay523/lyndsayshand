@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on LS</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on LS</description>
+    <title>Categories on Lyndsay Shand</title>
+    <link>https://lyndsayshand.com/categories/</link>
+    <description>Recent content in Categories on Lyndsay Shand</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:26:09 -0500</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyndsayshand.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/categories/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      <title>R</title>
+      <link>https://lyndsayshand.com/categories/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/categories/</guid>
+      <guid>https://lyndsayshand.com/categories/r/</guid>
       <description></description>
     </item>
     
