@@ -16,11 +16,6 @@ ignoreFiles:
   - \.utf8\.md$
 params:
   faviconfile: img/shand-lyndsay.png
-  highlightjs: yes
-  highlightjslanguages:
-    - r
-    - python
-    - stan
   progressively: no
   sitename: LES
   uselatex: yes
