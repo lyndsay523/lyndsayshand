@@ -26,10 +26,10 @@ markup:
 menu:
   primary:
     - name: About Me
-      url: /aboutme/
+      url: content/aboutme/
       weight: 1
     - name: Publications
-      url: /pubs/
+      url: content/pubs/
       weight: 2
     - name: GitHub
       url: https://github.com/lshand
