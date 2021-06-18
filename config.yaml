@@ -32,6 +32,6 @@ menu:
       url: "/pubs/"
       weight: 2
     - name: GitHub
-      url: "https://github.com/lshand""
+      url: "https://github.com/lshand"
       weight: 3
    
